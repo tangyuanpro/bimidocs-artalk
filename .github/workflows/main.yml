@@ -35,4 +35,4 @@ jobs:
       - name: Run
         run: |
           yarn docs:build
-          cp -f ./docs/.vuepress/dist /www/wwwroot/bimilinux.xyz
+          cp -f ./docs/.vitepress/dist /www/wwwroot/bimilinux.xyz
