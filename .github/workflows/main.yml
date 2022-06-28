@@ -35,4 +35,4 @@ jobs:
       - name: Run
         run: |
           yarn docs:build
-          echo test, and deploy your project.
+          cp -f ./docs/.vuepress/dist /www/wwwroot/bimilinux.xyz
