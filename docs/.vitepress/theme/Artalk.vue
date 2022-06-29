@@ -29,7 +29,7 @@ function initArtalk(pageData: any) {
   pEl.appendChild(artalkEl)
 
   const conf = {
-    el:        '#ArtalkComment',
+    el:        '#BimiLinux',
     pageKey:   `https://bimilinux.xyz${location.pathname}`,
     pageTitle:  pageData.title,
     server:    'https://artalk.luololita.com',
