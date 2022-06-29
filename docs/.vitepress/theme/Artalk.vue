@@ -30,8 +30,8 @@ function initArtalk(pageData: any) {
 
   const conf = {
     el:        '#ArtalkComment',
-    pageKey:   `https://bimilinux.xyz${location.pathname}`,
-    pageTitle:  pageData.title,
+    pageKey:   ``,
+    pageTitle: ``,
     server:    'https://artalk.luololita.com',
     site:      'BimiLinux-Docs',
     gravatar:   {
