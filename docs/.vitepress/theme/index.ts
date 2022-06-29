@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
 import Layout from './Layout.vue'
 import Artalk from './Artalk.vue'
+import Artransfer from './Artransfer.vue'
 import { Theme } from 'vitepress'
 
 export default {
