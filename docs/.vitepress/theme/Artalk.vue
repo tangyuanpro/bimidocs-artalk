@@ -29,11 +29,11 @@ function initArtalk(pageData: any) {
   pEl.appendChild(artalkEl)
 
   const conf = {
-    el:        '#BimiLinux',
+    el:        '#ArtalkComment',
     pageKey:   `https://bimilinux.xyz${location.pathname}`,
     pageTitle:  pageData.title,
     server:    'https://artalk.luololita.com',
-    site:      'ArtalkDocs',
+    site:      'BimiLinux-Docs',
     gravatar:   {
       mirror: 'https://cravatar.cn/avatar/'
     }
