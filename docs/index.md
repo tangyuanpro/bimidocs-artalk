@@ -4,8 +4,8 @@ titleTemplate: Bimi is not unix
 layout: home
 
 hero:
-  name: BimiLinux
-  text: Bimi is not unix
+  name: Bimi Linux
+  text: A linux based on Arch Linux
   tagline: 全新的本地化Linux系统
   actions:
     - theme: brand
