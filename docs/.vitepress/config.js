@@ -1,3 +1,7 @@
+import { defineConfig } from 'vitepress'
+import * as ArtalkCDN from '../code/ArtalkCDN.json'
+import * as Versions from '../code/ArtalkVersion.json'
+
 export default {
   // These are app level configs.
   lang: 'zh-CN',
