@@ -14,7 +14,7 @@ export default {
    ],
   themeConfig: {
     nav: [
-      { text: 'Guide', link: '/guide' },
+      { text: 'Guide', link: 'guide/what-is-bimilinux.md' },
       { text: 'Configs', link: '/configs' },
       { text: 'Changelog', link: 'https://github.com/...' }
     ],
@@ -29,7 +29,7 @@ export default {
           text: 'Guide',
           items: [
             // This shows `/guide/index.md` page.
-            { text: 'Index', link: '/guide/' }, // /guide/index.md
+            { text: 'Index', link: '/guide/' }, // /guide/what-is-bimilinux.md
             { text: 'One', link: '/guide/one' }, // /guide/one.md
             { text: 'Two', link: '/guide/two' } // /guide/two.md
           ]
