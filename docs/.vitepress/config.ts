@@ -32,8 +32,8 @@ export default {
             { text: 'Index', link: '/guide/' }, // /guide/index.md
             { text: 'One', link: '/guide/one' }, // /guide/one.md
             { text: 'Two', link: '/guide/two' } // /guide/two.md
-          ],
-        },
+          ]
+        }
       ],
 
       // This sidebar gets displayed when user is
@@ -46,9 +46,9 @@ export default {
             { text: 'Index', link: '/config/' }, // /config/index.md
             { text: 'Three', link: '/config/three' }, // /config/three.md
             { text: 'Four', link: '/config/four' } // /config/four.md
-          ],
-        },
-      ],
+          ]
+        }
+      ]
     },
   },
 }
