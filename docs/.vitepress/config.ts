@@ -8,6 +8,10 @@ export default {
   title: 'BimiLinux',
   description: '一个全新的linux系统',
   lastUpdated: true,
+
+  head: [
+     ['link', { href: ArtalkCDN.CSS, rel: 'stylesheet' }],
+   ],
   themeConfig: {
     nav: [
       { text: 'Guide', link: '/guide' },
