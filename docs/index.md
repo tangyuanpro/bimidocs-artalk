@@ -1,4 +1,5 @@
 ---
+title: BimiLinux
 layout: home
 
 hero:
