@@ -35,7 +35,7 @@ function initArtalk(pageData: any) {
     server:    'https://artalk.luololita.com',
     site:      'BimiLinux-Docs',
     gravatar:   {
-      mirror: 'https://cravatar.cn/avatar/'
+      mirror: 'https://sdn.geekzu.org/avatar/'
     }
   }
 
