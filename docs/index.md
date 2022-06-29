@@ -1,5 +1,6 @@
 ---
 title: BimiLinux
+titleTemplate: Bimi is not unix
 layout: home
 
 hero:
