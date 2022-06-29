@@ -2,16 +2,16 @@
 layout: home
 
 hero:
-  name: VuePress
-  text: Vite & Vue powered static site generator.
-  tagline: Lorem ipsum...
+  name: BimiLinux
+  text: Bimi is not unix
+  tagline: 全新的本地化Linux系统
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/what-is-vitepress
+      link: /guide/what-is-bimilinux
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/Bimi-Team
 features:
   - icon: ⚡️
     title: Vite, The DX that can't be beat
