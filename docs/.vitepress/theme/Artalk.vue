@@ -32,7 +32,7 @@ function initArtalk(pageData: any) {
     el:        '#ArtalkComment',
     pageKey:   ``,
     pageTitle: ``,
-    server:    'https://artalk.luololita.co',
+    server:    'https://artalk.luololita.com',
     site:      'BimiLinux-Docs',
     gravatar:   {
       mirror: 'https://cravatar.cn/avatar/'
