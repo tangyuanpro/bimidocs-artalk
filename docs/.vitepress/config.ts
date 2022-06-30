@@ -29,7 +29,7 @@ export default {
           text: 'Guide',
           items: [
             // This shows `/guide/index.md` page.
-            { text: '介绍', link: '/guide/' }, // /guide/what-is-bimilinux.md
+            { text: '介绍', link: '/guide/' }, // /guide/
             { text: '开发计划', link: '/guide/1.md' },
           ]
         }
@@ -39,12 +39,10 @@ export default {
       // under `config` directory.
       '/config/': [
         {
-          text: 'Config',
+          text: '镜像下载',
           items: [
             // This shows `/config/index.md` page.
             { text: 'Index', link: '/config/' }, // /config/index.md
-            { text: 'Three', link: '/config/three' }, // /config/three.md
-            { text: 'Four', link: '/config/four' } // /config/four.md
           ]
         }
       ]
