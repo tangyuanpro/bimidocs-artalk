@@ -29,9 +29,8 @@ export default {
           text: 'Guide',
           items: [
             // This shows `/guide/index.md` page.
-            { text: 'Index', link: '/guide/' }, // /guide/what-is-bimilinux.md
-            { text: 'One', link: '/guide/one' }, // /guide/one.md
-            { text: 'Two', link: '/guide/two' } // /guide/two.md
+            { text: '介绍', link: '/guide/' }, // /guide/what-is-bimilinux.md
+            { text: '开发计划', link: '/guide/1.md' },
           ]
         }
       ],
